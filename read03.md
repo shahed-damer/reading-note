@@ -10,3 +10,11 @@ Depict how the team envisions users to interact with the product or site.
 Document and communicate how various aspects of the app or website will connect.
 Establish consistent ways of displaying particular content across the site.
 Clarify for stakeholders across the company the product team’s plans for the product and the user experience. (This is why wireframes can serve as a helpful complement to the product roadmap in executive stakeholder meetings.)
+HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions.
+
+ HTML
+HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  
+
+Semantics is the study of the meaning of words and sentences; at its simplest, it concerns with the relation of linguistic forms to non-linguistic concepts and mental representations in order to explain how sentences are understood by the speakers of a language.
+To build websites, you should know about HTML — the fundamental technology used to define the structure of a webpage. HTML is used to specify whether your web content should be recognized as a paragraph, list, heading, link, image, multimedia player, form, or one of many other available elements or even a new element that you define.
+
