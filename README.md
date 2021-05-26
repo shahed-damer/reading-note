@@ -6,10 +6,10 @@ Introudction to my self
 
 
 # Table of Contents
-1. [growth](#growth) https://shahed-damer.github.io/reading-note/growth
-2. [read01.md](#read01.md) https://shahed-damer.github.io/reading-note/read01
-3. [read02.md](#read02.md) https://shahed-damer.github.io/reading-note/read02
-4. [read03.md](#read03.md) https://shahed-damer.github.io/reading-note/read03
+1. [growth](https://shahed-damer.github.io/reading-note/growth) 
+2. [read01.md]( https://shahed-damer.github.io/reading-note/read01) 
+3. [read02.md]( https://shahed-damer.github.io/reading-note/read02)
+4. [read03.md]( https://shahed-damer.github.io/reading-note/read03) 
 
 
 
