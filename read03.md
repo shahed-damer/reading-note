@@ -15,6 +15,9 @@ HTML (Hypertext Markup Language) is the code that is used to structure a web pag
  HTML
 HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  
 
-Semantics is the study of the meaning of words and sentences; at its simplest, it concerns with the relation of linguistic forms to non-linguistic concepts and mental representations in order to explain how sentences are understood by the speakers of a language.
+ **Semantics** is the study of the meaning of words and sentences; at its simplest, it concerns with the relation of linguistic forms to non-linguistic concepts and mental representations in order to explain how sentences are understood by the speakers of a language.
 To build websites, you should know about HTML — the fundamental technology used to define the structure of a webpage. HTML is used to specify whether your web content should be recognized as a paragraph, list, heading, link, image, multimedia player, form, or one of many other available elements or even a new element that you define.
+HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
+
+**Mozilla HTML**"Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
 
