@@ -1,28 +1,14 @@
-here is many types of operators 
-Assignment operators
-Comparison operators
-Arithmetic operators
-Bitwise operators
-Logical operators
-String operators
-Conditional (ternary) operator
-Comma operator
-Unary operators
-Relational operators
+ CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 
- destructuring assignment syntax is a JavaScript expression that makes it possible to extract data from arrays or objects using a syntax that mirrors the construction of array and object literals.
+A document is usually a text file structured using a markup language — HTML is the most common markup language, but you may also come across other markup languages such as SVG or XML.
+CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text.
+Browser support information
+Once CSS has been specified then it is only useful for us in developing web pages if one or more browsers have implemented it. This means that the code has been written to turn the instruction in our CSS file into something that can be output to the screen. We'll look at this process more in the lesson How CSS works. It is unusual for all browsers to implement a feature at the same time, and so there is usually a gap where you can use some part of CSS in some browsers and not in others. For this reason, being able to check implementation status is useful.
+add a css
+There are three ways of inserting a style sheet:
 
- Bitwise logical operators
- The operands are converted to thirty-two-bit integers and expressed by a series of bits (zeros and ones). Numbers with more than 32 bits get their most significant bits discarded. For example, the following integer with more than 32 bits will be converted to a 32 bit integar
+External CSS
+Internal CSS
+Inline CSS
 
- Functions
-
- will have The name of the function.
-A list of parameters to the function, enclosed in parentheses and separated by commas.
-The JavaScript statements that define the function, enclosed in curly brackets, {...}.
-
-we have function expression :
-
-While the function declaration above is syntactically a statement, functions can also be created by a function expression.
-Calling functions
-Defining a function does not execute it. Defining it names the function and specifies what to do when the function is called.
+ 
