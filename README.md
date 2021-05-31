@@ -17,6 +17,8 @@ Introudction to my self
   |read04java.md  | [read04java.md](https://shahed-damer.github.io/reading-note/read04java.md ) |
   |read05.md      |[read05.md](https://shahed-damer.github.io/reading-note/read05.md)|
   |read06.md      |[read06.md](https://shahed-damer.github.io/reading-note/read06)|
+  |read06java.md      |[read06java.md](https://shahed-damer.github.io/reading-note/read06java)|
+
 
 
 
