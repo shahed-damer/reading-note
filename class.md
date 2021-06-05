@@ -65,4 +65,18 @@ a large heading, followed by
 an introduction or the most
 important information.
 
+Tags act like containers. They tell you
+something about the information that lies
+between their opening and closing tags.
+
+Attributes provide additional information
+about the contents of an element. They appear
+on the opening tag of the element and are
+made up of two parts: a name and a value,
+separated by an equals sign.
+
+To learn HTML you need to know what tags are
+available for you to use, what they do, and where they
+can go.
+
 
