@@ -25,6 +25,7 @@ Introudction to my self
 | Name   | link  |
  | ------------- |
 | class | [class.md](https://shahed-damer.github.io/reading-note/class) |
+| class-02 | [class-02.md](https://shahed-damer.github.io/reading-note/class-02.md) |
 
 
 
