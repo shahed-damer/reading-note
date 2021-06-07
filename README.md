@@ -22,9 +22,10 @@ Introudction to my self
 
  ## Code 201 Reading Notes
  ### Table of content 
+
 | Name   | link  |
  | ------------- |
-| class-01 | [class-01](https://shahed-damer.github.io/reading-note/class-01.md) |
+| class-01 | [class-01](https://shahed-damer.github.io/reading-note/class-01) |
 |class-02  |[class-02](https://shahed-damer.github.io/reading-note/class-02 )|
 
 
