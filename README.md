@@ -24,9 +24,10 @@ Introudction to my self
  ### Table of content 
 
 | Name   | link  |
- | ------------- |
+| ------------- |
 | class-01 | [class-01](https://shahed-damer.github.io/reading-note/class-01) |
 |class-02  |[class-02](https://shahed-damer.github.io/reading-note/class-02 )|
+|class-02read2  |[class-02read2](https://shahed-damer.github.io/reading-note/class-02read2 )
 
 
 
