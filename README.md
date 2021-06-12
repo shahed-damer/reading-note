@@ -7,17 +7,15 @@ Introudction to my self
 # Table of Content
 
 | Name   | link  |
- | ------------- |
-| growth mindset | [growth](https://shahed-damer.github.io/reading-note/growth)   |
-| markdown       | [read01.md]( https://shahed-damer.github.io/reading-note/read01) |
-| read02         |  [read02.md]( https://shahed-damer.github.io/reading-note/read02)
-  |
-| read03         | [read03.md]( https://shahed-damer.github.io/reading-note/read03) 
-  |
-  |read04java.md | [read04java.md](https://shahed-damer.github.io/reading-note/read04java.md ) |
-  |read05.md     |[read05.md](https://shahed-damer.github.io/reading-note/read05.md)|
-  |read06.md     |[read06.md](https://shahed-damer.github.io/reading-note/read06)|
-  |read06java.md |[read06java.md](https://shahed-damer.github.io/reading-note/read06java)|
+| ------------- |
+| growth mindset | [growth](https://shahed-damer.github.io/reading-note/growth) |
+| markdown       | [read01.md]( https://shahed-damer.github.io/reading-note/read01)|
+| read02         |  [read02.md]( https://shahed-damer.github.io/reading-note/read02)|
+| read03         | [read03.md]( https://shahed-damer.github.io/reading-note/read03)| 
+|read04java.md | [read04java.md](https://shahed-damer.github.io/reading-note/read04java.md ) |
+|read05.md     |[read05.md](https://shahed-damer.github.io/reading-note/read05.md)|
+|read06.md     |[read06.md](https://shahed-damer.github.io/reading-note/read06)|
+|read06java.md |[read06java.md](https://shahed-damer.github.io/reading-note/read06java)|
 
 
  ## Code 201 Reading Notes
@@ -29,6 +27,7 @@ Introudction to my self
 |class-02  | [class-02](https://shahed-damer.github.io/reading-note/class-02 )|
 |class-02read2  |[class-02read2](https://shahed-damer.github.io/reading-note/class-02read2 )|
 |class04   |[class04]( https://shahed-damer.github.io/reading-note/class04 )|
+|class05   |[class05](https://shahed-damer.github.io/reading-note/class5  )|
 
 
 
