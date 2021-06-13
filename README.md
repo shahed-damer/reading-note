@@ -29,7 +29,7 @@ Introudction to my self
 |class04   |[class04]( https://shahed-damer.github.io/reading-note/class04 )|
 |class05   |[class05](https://shahed-damer.github.io/reading-note/class5  )|
 |class06   |[class06](https://shahed-damer.github.io/reading-note/class06)|
-|class07   |[class07](|https://shahed-damer.github.io/reading-note/class07|
+|class07   |[class07](class07.md)|
 
 
 
