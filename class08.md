@@ -1,7 +1,4 @@
-#css layout
-CSS treats each HTML element as if it is in its 
-own box. This box will either be a block-level
-box or an inline box.
+CSS page layout techniques allow us to take elements contained in a web page and control where they are positioned relative to their default position in normal layout flow, the other elements around them, their parent container, or the main viewport/window
 
 Block-level elements
 start on a new line
@@ -47,15 +44,6 @@ margin
 This creates a gap between the 
 columns.
 
-The float property moves content to the left or right 
-of the page and can be used to create multi-column 
-layouts. (Floated items require a defined width.)
-X Pages can be fixed width or liquid (stretchy) layouts.
-X Designers keep pages within 960-1000 pixels wide, 
-and indicate what the site is about within the top 600 
-pixels (to demonstrate its relevance without scrolling).
-X Grids help create professional and flexible designs.
-X CSS Frameworks provide rules for common tasks.
-X You can include multiple CSS files in one page
+
 
 
