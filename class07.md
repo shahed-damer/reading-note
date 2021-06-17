@@ -1,7 +1,6 @@
  
 
-omain modeling
-is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.
+ function object is a construct allowing an object to be invoked or called as if it were an ordinary function
 
 Here's some tips to follow when building your own domain models.
 When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
