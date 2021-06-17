@@ -1,6 +1,6 @@
 Debugging is the process of finding and fixing errors within a script. 
 
-I can activate it by pricing of f 12 then choose console from the menu , when there is no debug the debug will have no effect.
+  when there is no debug the debug will have no effect.
 
 the syntax is debugger
 
